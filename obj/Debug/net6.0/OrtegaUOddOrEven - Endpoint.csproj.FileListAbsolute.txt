@@ -1,0 +1,27 @@
+/Users/ulisesortega/Desktop/Level2 Homework/OrtegaUOddOrEven - Endpoint/obj/Debug/net6.0/OrtegaUOddOrEven - Endpoint.csproj.AssemblyReference.cache
+/Users/ulisesortega/Desktop/Level2 Homework/OrtegaUOddOrEven - Endpoint/obj/Debug/net6.0/OrtegaUOddOrEven - Endpoint.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ulisesortega/Desktop/Level2 Homework/OrtegaUOddOrEven - Endpoint/obj/Debug/net6.0/OrtegaUOddOrEven - Endpoint.AssemblyInfoInputs.cache
+/Users/ulisesortega/Desktop/Level2 Homework/OrtegaUOddOrEven - Endpoint/obj/Debug/net6.0/OrtegaUOddOrEven - Endpoint.AssemblyInfo.cs
+/Users/ulisesortega/Desktop/Level2 Homework/OrtegaUOddOrEven - Endpoint/obj/Debug/net6.0/OrtegaUOddOrEven - Endpoint.csproj.CoreCompileInputs.cache
+/Users/ulisesortega/Desktop/Level2 Homework/OrtegaUOddOrEven - Endpoint/obj/Debug/net6.0/OrtegaUOddOrEven - Endpoint.MvcApplicationPartsAssemblyInfo.cs
+/Users/ulisesortega/Desktop/Level2 Homework/OrtegaUOddOrEven - Endpoint/obj/Debug/net6.0/OrtegaUOddOrEven - Endpoint.MvcApplicationPartsAssemblyInfo.cache
+/Users/ulisesortega/Desktop/Level2 Homework/OrtegaUOddOrEven - Endpoint/bin/Debug/net6.0/appsettings.Development.json
+/Users/ulisesortega/Desktop/Level2 Homework/OrtegaUOddOrEven - Endpoint/bin/Debug/net6.0/appsettings.json
+/Users/ulisesortega/Desktop/Level2 Homework/OrtegaUOddOrEven - Endpoint/bin/Debug/net6.0/OrtegaUOddOrEven - Endpoint
+/Users/ulisesortega/Desktop/Level2 Homework/OrtegaUOddOrEven - Endpoint/bin/Debug/net6.0/OrtegaUOddOrEven - Endpoint.deps.json
+/Users/ulisesortega/Desktop/Level2 Homework/OrtegaUOddOrEven - Endpoint/bin/Debug/net6.0/OrtegaUOddOrEven - Endpoint.runtimeconfig.json
+/Users/ulisesortega/Desktop/Level2 Homework/OrtegaUOddOrEven - Endpoint/bin/Debug/net6.0/OrtegaUOddOrEven - Endpoint.dll
+/Users/ulisesortega/Desktop/Level2 Homework/OrtegaUOddOrEven - Endpoint/bin/Debug/net6.0/OrtegaUOddOrEven - Endpoint.pdb
+/Users/ulisesortega/Desktop/Level2 Homework/OrtegaUOddOrEven - Endpoint/bin/Debug/net6.0/Microsoft.OpenApi.dll
+/Users/ulisesortega/Desktop/Level2 Homework/OrtegaUOddOrEven - Endpoint/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/ulisesortega/Desktop/Level2 Homework/OrtegaUOddOrEven - Endpoint/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/ulisesortega/Desktop/Level2 Homework/OrtegaUOddOrEven - Endpoint/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/ulisesortega/Desktop/Level2 Homework/OrtegaUOddOrEven - Endpoint/obj/Debug/net6.0/staticwebassets.build.json
+/Users/ulisesortega/Desktop/Level2 Homework/OrtegaUOddOrEven - Endpoint/obj/Debug/net6.0/staticwebassets.development.json
+/Users/ulisesortega/Desktop/Level2 Homework/OrtegaUOddOrEven - Endpoint/obj/Debug/net6.0/scopedcss/bundle/OrtegaUOddOrEven - Endpoint.styles.css
+/Users/ulisesortega/Desktop/Level2 Homework/OrtegaUOddOrEven - Endpoint/obj/Debug/net6.0/OrtegaUOddOrEven - Endpoint.csproj.CopyComplete
+/Users/ulisesortega/Desktop/Level2 Homework/OrtegaUOddOrEven - Endpoint/obj/Debug/net6.0/OrtegaUOddOrEven - Endpoint.dll
+/Users/ulisesortega/Desktop/Level2 Homework/OrtegaUOddOrEven - Endpoint/obj/Debug/net6.0/refint/OrtegaUOddOrEven - Endpoint.dll
+/Users/ulisesortega/Desktop/Level2 Homework/OrtegaUOddOrEven - Endpoint/obj/Debug/net6.0/OrtegaUOddOrEven - Endpoint.pdb
+/Users/ulisesortega/Desktop/Level2 Homework/OrtegaUOddOrEven - Endpoint/obj/Debug/net6.0/OrtegaUOddOrEven - Endpoint.genruntimeconfig.cache
+/Users/ulisesortega/Desktop/Level2 Homework/OrtegaUOddOrEven - Endpoint/obj/Debug/net6.0/ref/OrtegaUOddOrEven - Endpoint.dll
